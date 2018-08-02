@@ -1,0 +1,11 @@
+java.net.BindException: Permission denied
+
+2016.03.28 at 10:37:56 MST   /192.168.0.194:22 ---> /192.168.0.155:22
+  Start Record...
+
+2016.03.28 at 10:38:45 MST  Server /192.168.0.194:22 is stopped...
+java.net.BindException: Permission denied
+
+2016.03.28 at 10:37:56 MST   /192.168.0.194:22 ---> /192.168.0.155:22
+  Start Record...
+
